@@ -2,19 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://seocho-song-room.pbn-builder.xyz/</loc>
-    <lastmod>2026-06-15</lastmod>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://seocho-song-room.pbn-builder.xyz/posts/checklist-001-s2t52y.html</loc>
     <lastmod>2026-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://seocho-song-room.pbn-builder.xyz/posts/compare-002-demprb.html</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -27,12 +21,6 @@
   <url>
     <loc>https://seocho-song-room.pbn-builder.xyz/posts/myth-002-s2t52y.html</loc>
     <lastmod>2026-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://seocho-song-room.pbn-builder.xyz/posts/qa-001-demprb.html</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
